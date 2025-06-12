@@ -3,7 +3,7 @@ import math  # Import math module for functions like sin, cos, tan, log10
 
 root = Tk()
 root.geometry("650x350")
-root.title("NAVEEN PRAJAPAT CALCULATOR")
+root.title("Yuvanshu Dadhich Calculator")
 
 def click(event):
     global value
